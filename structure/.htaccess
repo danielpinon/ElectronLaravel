@@ -1,0 +1,4 @@
+#RewriteEngine On
+
+#TO public response
+#RewriteRule ^(.*)$ public/$0
